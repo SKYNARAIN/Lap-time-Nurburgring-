@@ -1,0 +1,31 @@
+﻿Model,Engine Capacity,Engine Type,Turbocharger,Supercharger,Hybrid,V6,V8,V12,V10,Flat-Six,Inline-Four,Inline-Six,Electric,Horsepower,Torque,Top Speed,Nürburgring Lap time
+Mercedes-AMG One,1.6,Turbocharged V6 Hybrid,1,0,1,1,0,0,0,0,0,0,0,1049,570,270,6.29
+Porsche 911 GT2 RS,3.8,Twin-Turbo Flat-Six,2,0,0,0,0,0,0,1,0,0,0,700,553,211,6.39
+Mercedes-AMG GT Black Series,4,Twin-Turbo V8,2,0,0,0,1,0,0,0,0,0,0,730,590,202,6.43
+Porsche 911 GT3 RS,4,Flat-Six,0,0,0,0,0,0,0,0,0,0,0,518,346,196,6.45
+Lamborghini Aventador SVJ LP770-4,6.5,V12,0,0,0,0,0,1,0,0,0,0,0,770,720,217,6.45
+Porsche 911 GT2 RS,3.8,Twin-Turbo Flat-Six,2,0,0,0,0,0,0,1,0,0,0,700,553,211,6.47
+Radical SR8,3.5,V8,0,0,0,0,1,0,0,0,0,0,0,394,317,225,6.48
+Lamborghini Huracán Performante LP640-4,5.2,V10,0,0,0,0,0,0,1,0,0,0,0,640,443,202,6.52
+Porsche 918 Spyder,4.6,V8 Hybrid,0,0,1,0,1,0,0,0,0,0,0,887,590,214,6.57
+Ferrari 296 GTB,3,Twin-Turbo V6 Hybrid,2,0,1,1,0,0,0,0,0,0,0,830,546,205,6.59
+Ferrari 488 Pista,3.9,Twin-Turbo V8,2,0,0,0,1,0,0,0,0,0,0,720,568,211,7
+Dodge Viper,8.4,V10,0,0,0,0,0,0,1,0,0,0,0,645,600,206,7.01
+Porsche Cayman GT4 RS,4,Flat-Six,0,0,0,0,0,0,0,0,0,0,0,500,346,196,7.04
+Rimac Nevera,0,Electric,0,0,0,0,0,0,0,0,0,0,1,1914,1740,258,7.05
+McLaren 720S,4,Twin-Turbo V8,2,0,0,0,1,0,0,0,0,0,0,710,568,212,7.08
+McLaren 600LT,3.8,Twin-Turbo V8,2,0,0,0,1,0,0,0,0,0,0,592,479,204,7.09
+BMW M4 CSL,3,Twin-Turbo Inline-Six,2,0,0,0,0,0,0,0,0,1,0,543,479,190,7.13
+Chevrolet Corvette Z06,5.5,Supercharged V8,0,1,0,0,1,0,0,0,0,0,0,650,650,205,7.14
+Chevrolet Camaro ZL1,6.2,Supercharged V8,0,1,0,0,1,0,0,0,0,0,0,650,650,202,7.16
+Nissan GT-R (2013),3.8,Twin-Turbo V6,2,0,0,1,0,0,0,0,0,0,0,545,463,196,7.19
+Ferrari Enzo,6,V12,0,0,0,0,1,1,0,0,0,0,0,660,485,218,7.25
+KTM X-Bow RR,2,Turbocharged Inline-Four,1,0,0,0,0,0,0,0,1,0,0,500,310,174,7.26
+Ferrari 812 Superfast,6.5,V12,0,0,0,0,0,1,0,0,0,0,0,800,718,211,7.27
+Pagani Zonda F Clubsport,7.3,V12,0,0,0,0,0,1,0,0,0,0,0,600,479,214,7.33
+McLaren MP4-12C,3.8,Twin-Turbo V8,2,0,0,0,1,0,0,0,0,0,0,616,443,207,7.28
+Porsche Carrera GT,5.7,V10,0,0,0,0,0,0,1,0,0,0,0,612,435,205,7.29
+Aston Martin V8 Vantage,4,Twin-Turbo V8,2,0,0,0,1,0,0,0,0,0,0,503,505,195,7.44
+Renault Megane IV RS,1.8,Turbocharged Inline-Four,1,0,0,0,0,0,0,0,1,0,0,300,400,180,7.54
+Lotus Exige S,3.5,V6,0,0,0,1,0,0,0,0,0,0,0,345,295,175,7.48
+Mini Cooper S JCW,2,Turbocharged Inline-Four,1,0,0,0,0,0,0,0,1,0,0,228,258,153,8.35
